@@ -1,4 +1,4 @@
-# Slimmemeterportal scraper
+# Slimmemeterportal.nl data scraper
 
 ## About
 
